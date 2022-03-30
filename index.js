@@ -34,7 +34,7 @@ function newItem (itemName,itemSrc, posLeft, posBottom){
 /**************************** 
  *  +Generate Background
 ****************************/
-let horizon = window.innerHeight * .66
+let horizon = window.innerHeight * .47
 let skyHeight = window.innerHeight - horizon
 let grassHeight = horizon
 
